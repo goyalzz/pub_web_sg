@@ -1,4 +1,4 @@
-resource "aws_security_group" "pub_ssh_sg" {
+resource "aws_security_group" "pub_http_sg" {
   name   = "pub_web_sg"
   vpc_id = "${var.vpc_id}"
 

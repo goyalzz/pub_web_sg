@@ -1,2 +1,2 @@
-# pub_web_sg
-Public web security group
+# pub_ssh_sg
+Terraform module to create a security group to enable ssh access
